@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="dont_have_acc">"Don't have account? "</string>
+    <string name="sign_up"><u><b><i>Sign Up</i></b></u></string>
+    <string name="log_in"><u><b><i>Log In</i></b></u></string>
+    <string name="type_message">Type Message</string>
+    <string name="messenge">Messenge</string>
+    <string name="todo">TODO</string>
+    <string name="online">Online</string>
+    <string name="name">Name</string>
+    <string name="chats">Chats</string>
+</resources>
